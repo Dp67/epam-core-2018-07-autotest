@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/pvorb/spring-boot-freemarker-spring-security-jsp-taglib-sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DaniilPavlov1/DaniilPavlov_API.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Natalya\IdeaProjects\DaniilPavlov" />
