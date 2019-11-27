@@ -46,6 +46,10 @@
           <option name="url" value="ssh://daniil_pavlov%40epam.com@gerrit-edp-cicd-vlg1.epam-dev.aws-rgn-vlgn.com:32079/velocigene-autotests" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jdi-testing/jdi-light.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Natalya\IdeaProjects\DaniilPavlov" />
